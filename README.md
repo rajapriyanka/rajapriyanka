@@ -9,12 +9,11 @@
 ---
 
 ## 🔥 About Me  
-- 💡 I enjoy developing full-stack applications with modern web technologies.  
-- 🎯 Skilled in designing and implementing user-friendly and scalable web solutions.  
-- 🎓 Currently pursuing a **Bachelor of Engineering (CSE)** at Parisutham Institute of Technology and Science (**CGPA: 8.33**).  
-- 🛠️ Strong foundation in **Java, JavaScript, SQL**, and web technologies.  
-- 🌱 Constantly learning and exploring new frameworks and technologies.  
-
+💡 I enjoy developing full-stack applications using modern web technologies.
+🎯 Skilled in designing and implementing user-friendly and scalable web solutions.
+🎓 Graduated with Honors in B.E. Computer Science and Engineering from Parisutham Institute of Technology and Science (CGPA: 8.33), specializing in Full Stack Development.
+🛠️ Strong foundation in Java, JavaScript, SQL, and web technologies.
+🌱 Continuously learning and exploring new frameworks and tools to build better software.
 ---
 
 ## 💻 Tech Stack  
