@@ -63,7 +63,7 @@
 ---
 
 ## 🌍 Languages  
-- **Tamil** - Full Professional Proficiency  
+- **Tamil** - Native Language 
 - **English** - Full Professional Proficiency  
 
 ---
