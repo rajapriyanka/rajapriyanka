@@ -24,14 +24,22 @@
 ### 🎨 Frontend  
 - **ReactJS** | **HTML** | **CSS**  
 
-### 🛠️ Backend  
-- **Spring Boot** | **JWT Authentication**  
+### 🛠️ Backend & Architecture  
+- **Spring Boot**  
+- **JWT Authentication**  
+- **Apache Kafka** (Event Streaming)  
+- **RabbitMQ** (Message Broker)  
 
-### 🗄️ Database  
-- **MySQL** | **PostgreSQL**  
+### ☁️ DevOps & Deployment  
+- **Docker** (Containerization)  
+- **Kubernetes** (Orchestration)  
+
+### 🔐 Security  
+- **Keycloak** (Identity & Access Management)
 
 ### 🔧 Tools  
-- **Postman** | **VS Code** | **Spring Tool Suite (STS)** | **GitHub** | **Docker** | **Kubernetes** | **Keycloak**
+- **Git** | **GitHub** | **Postman** | **VS Code** | **Spring Tool Suite (STS)**
+ 
 ---
 
 ## 🌟 Featured Projects  
