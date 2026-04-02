@@ -31,8 +31,7 @@
 - **MySQL** | **PostgreSQL**  
 
 ### 🔧 Tools  
-- **Postman** | **VS Code** | **Spring Tool Suite (STS)** | **GitHub**  
-
+- **Postman** | **VS Code** | **Spring Tool Suite (STS)** | **GitHub** | **Docker** | **Kubernetes** | **Keycloak**
 ---
 
 ## 🌟 Featured Projects  
@@ -56,7 +55,7 @@
 
 ## 🏆 Certifications  
 - 🏅 **Senior Grade Typewriting (English) - First Class**  
-- 🏅 **Junior Grade Typewriting (Tamil) - First Class with Distinction**  
+- 🏅 **Senior Grade Typewriting (Tamil) - First Class**  
 - 📜 **Alison - JavaScript and CSS (Fully Responsive Website)**  
 - 📜 **NPTEL - Data Structures & Algorithms Using Java (07/2024 - 10/2024)**  
 
